@@ -1,8 +1,8 @@
 this is my first commit
 this is my third commit
-this is my fourth commit
 <<<<<<< HEAD
-this this is my sixth commit
+this is my fourth commit
+this this this this is my sixth commit
 =======
-this is my sixth commit commit
->>>>>>> develop
+thithtithis is my fourth commit
+>>>>>>> test
